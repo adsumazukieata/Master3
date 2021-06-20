@@ -1,0 +1,38 @@
+{
+  "name": "NwsPhoto",
+  "short_name": "NwsPhoto",
+  "start_url": "https://nwsphoto.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "Blog Kumpulan Gambar Ide Kreatif, Background, Gambar Wallpaper, Gambar Animasi​, Gambar Motif Keren, Pemandangan, Edukasi, Unik.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-14kFEXEWHAg/YM67e8ApNlI/AAAAAAAAATw/oJI4_i11ku8OaAGn3eDEJgCYWrgXAOcAgCLcBGAsYHQ/s48/ikonfaficonNwsPhoto48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ZeiU8PFELO4/YM67fsiv60I/AAAAAAAAAT4/OQ_NKSmir6kwvLFIcoudadz0AgKDF1VUQCLcBGAsYHQ/s72/ikonfaficonNwsPhoto72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-M-Sbiz1Ux_k/YM67fqI7YOI/AAAAAAAAAT8/D8teiM8pVNMz_W1siCO5rJ0vJEuXFNGPwCLcBGAsYHQ/s96/ikonfaficonNwsPhoto96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-V75wJ9RJGbg/YM67d8bQZEI/AAAAAAAAATs/AuAh20O_toQJ24IA9aOxfCVoxoXjhaz1wCLcBGAsYHQ/s144/ikonfaficonNwsPhoto144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-tSDhbTqOQtk/YM67dxhi03I/AAAAAAAAATk/gOolhdsraLMUk66dTOWTeEcHhN2CAnaUQCLcBGAsYHQ/s168/ikonfaficonNwsPhoto168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-0HZPyskxBzM/YM67d3r0wWI/AAAAAAAAATo/YYio9ZFuqG4aP0A-tjFJIvMx3VHyTkA8gCLcBGAsYHQ/s192/ikonfaficonNwsPhoto192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-TIWe9G3IkCg/YM67fR8Bf7I/AAAAAAAAAT0/HUFovdykV7w9XVYKE-69hy3N750vFzG_gCLcBGAsYHQ/s512/ikonfaficonNwsPhoto512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
